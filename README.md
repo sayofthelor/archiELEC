@@ -1,4 +1,4 @@
-# archiemas-gui
+# archiemas-OS
 Operating system for archieMAS arcade system
 
 # THIS IS A WORK IN PROGRESS!
