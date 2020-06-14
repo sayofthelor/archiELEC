@@ -1,4 +1,4 @@
-# archiemas-OS
+# archieMGS-OS
 Operating system for archieMAS arcade system. It is being planned to use Debian as a base, but it may use Windows 10 IOT or a different version of Linux. Please don't write any applications yet as we haven't decided.
 
 # THIS IS A WORK IN PROGRESS!
